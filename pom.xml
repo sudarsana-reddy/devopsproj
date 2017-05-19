@@ -40,7 +40,7 @@
 	     <update>true</update>
 	     <url>http://localhost:8080/manager/text</url>
 	     <username>sudarsana</username>
-	     <password>pasword</password>
+	     <password>password</password>
 	    </configuration>
    	   </plugin>
     </plugins>
